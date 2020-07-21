@@ -1,2 +1,2 @@
-# module2
-mod2
+# module2-solution
+module2-solution
